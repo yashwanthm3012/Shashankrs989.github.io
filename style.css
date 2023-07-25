@@ -1,0 +1,15 @@
+
+body{
+    background-image: url('ss.webp');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+  position: relative;
+}
+
+  
+
+p{color:red;}
+
+
+
