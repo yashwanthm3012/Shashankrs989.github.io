@@ -20,7 +20,9 @@ h1{
     text-align: right;
   }
 
-p{color:red;}
+p{
+  text-align: right;
+}
 
 
 
